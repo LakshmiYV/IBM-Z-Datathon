@@ -1,0 +1,5 @@
+### Problem Statement:
+Agriculture faces significant challenges due to climate change, resource depletion, and poor soil management. Smallholder farmers, who form the backbone of global agriculture, often lack access to timely and personalized information about which crops to plant and what fertilizers to use. This lack of data-driven decision-making leads to suboptimal yields, deteriorating soil health, and economic hardships for farmers. To tackle these issues, there is an urgent need for a solution that can analyze environmental data and provide actionable insights to help farmers make informed choices.
+
+### Solution:
+We have developed a data-driven recommendation system using machine learning algorithms to empower farmers with precise, personalized guidance on crop selection and fertilizer usage. The system takes into account critical environmental factors such as soil nutrient levels (Nitrogen, Phosphorus, Potassium), temperature, humidity, rainfall, and soil type. By analyzing these factors, the system predicts the most suitable crops and recommends fertilizers that optimize nutrient balance, improve soil health, and maximize yield.
